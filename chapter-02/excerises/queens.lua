@@ -38,4 +38,4 @@ function addqueen(a,n)
     end 
 end 
 
-addqueen({},1)
+addqueen({}, 1)
