@@ -20,3 +20,5 @@ print(1.5 // 0.5)
 x = math.pi
 x = x%0.01
 
+print(0.2e3)
+print(3.0 / 2.0)
