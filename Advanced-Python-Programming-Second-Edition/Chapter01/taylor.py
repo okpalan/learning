@@ -4,7 +4,6 @@ def factorial(n):
     else:
         return float(n) * factorial(n - 1)
 
-
 def taylor_exp(n):
     return [1.0 / factorial(i) for i in range(n)]
 

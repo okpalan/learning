@@ -5,7 +5,6 @@ import timeit
 
 
 class Particle:
-
     __slots__ = ("x", "y", "ang_speed")
 
     def __init__(self, x, y, ang_speed):
