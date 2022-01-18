@@ -1,1 +1,2 @@
-print(io.read())
+x = io.read("*n")
+print(x)

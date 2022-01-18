@@ -12,4 +12,4 @@ end
 
 print("enter a number")
 a=io.read("*n")
-print(fact(a)) 
+print(fact(a))
