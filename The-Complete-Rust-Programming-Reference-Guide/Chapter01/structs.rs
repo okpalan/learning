@@ -12,7 +12,7 @@ fn bump_player_score(mut player: Player, score: u16) {
     println!("Updated player stats:");
     println!("Name: {}", player.name);
     println!("IQ: {}", player.iq);
-    println!("Friends: {}", player.friends);
+    println!("Friends: {}",player.friends);
     println!("Score: {}", player.score);
 }
 
