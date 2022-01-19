@@ -13,4 +13,4 @@ print("--------------")
 
 a={}
 -- create 1000 new entris
-for i=1,1000 do a[i] = i* 2 end
+for i=1 , 1000 do a[i] = i* 2 end

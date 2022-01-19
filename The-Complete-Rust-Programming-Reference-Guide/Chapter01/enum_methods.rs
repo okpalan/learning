@@ -13,6 +13,7 @@ fn pay_by_credit(amt: u64) {
 fn pay_by_debit(amt: u64) {
     println!("Processing debit payment of {}", amt);
 }
+
 fn paypal_redirect(amt: u64) {
     println!("Redirecting to paypal for amount: {}", amt);
 }
