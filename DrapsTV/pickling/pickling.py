@@ -16,5 +16,5 @@ output.close()
 print("----------")
 
 input_file = open("save.pkl",'rb')
-dict2 =pickle.load(input_file)
-list2=pickle.load(input_file)
+dict2 = pickle.load(input_file)
+list2= pickle.load(input_file)

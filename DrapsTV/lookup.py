@@ -12,7 +12,7 @@ def main():
 
     for line in search_file.readlines():
         line =line.strip('\n\r')
-        lineNum +=1
+        lineNum += 1
         search_res =re.search(args.word,line,re.M|re.I)
         if search_res:
             print(str(lineNum)+':'+line)
