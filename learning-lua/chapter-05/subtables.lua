@@ -12,3 +12,6 @@ print(a[tonumber(k)]);
 
 a["2.0"] = 3
 print(a[2.0])
+
+a[k]=nil
+print(a[k])

@@ -8,10 +8,10 @@ int main(void){
     float fahrenheit,celsius;
 
     printf("Enter Fahrenheit temperature: " );
-    scanf("%f",&fahrenheit);
+    scanf("%f" , &fahrenheit);
 
     celsius = (fahrenheit - FREEZING_PT * SCALE_FACTOR);
-    printf("Celsius equivalent: %.1f\n",celsius);
+    printf("Celsius equivalent: %.4f\n",celsius);
 
     return 0;
 }
