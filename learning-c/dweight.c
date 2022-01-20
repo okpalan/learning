@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-int main(){
+int main(void){
 float height,length,width,volume,weight;
-height=8.65;
-length=12.78;
-width=10.24;
-volume=height * length * width;
+height = 8.65;
+length = 12.78;
+width = 10.24;
+volume = height * length * width;
 
 printf("Dimension : %dx%dx%d\n",length,width,height);
 printf("Volume (cubic inches): %d%p\n",volume);
