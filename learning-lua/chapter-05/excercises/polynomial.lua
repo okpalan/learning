@@ -5,7 +5,7 @@ x= a number
 --]]
 
 function fromPolynomial(t,x)
-    result = ""
+    result = ''
     
 end
 

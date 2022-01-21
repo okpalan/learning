@@ -6,9 +6,9 @@ zip =(((company or E).director or E).address or E).zipcode
 
 company = 
     {
-    "director": {
-        "address":{
-            "zipcode" : "123.456"
+    director: {
+        address:{
+            zipcode : "123.456"
         }
     }
 }
