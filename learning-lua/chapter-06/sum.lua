@@ -53,3 +53,15 @@ print(select(1,"a","b","c"))
 print(select(2,"a","b","c"))
 print(select(3,"a","b","c"))
 print(select("#","a","b","c"))
+
+function nonils(...)
+    local arg = select(...)
+    for i = 1,arg.n do
+        if arg[i] == nil then return false end
+    end
+    return true
+end
+
+
+-- print(nonils())
+-- print(nonils(nil))
