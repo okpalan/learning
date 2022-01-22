@@ -6,10 +6,10 @@ enum PaymentMode {
 }
 
 // Bunch of dummy payment handlers
-
 fn pay_by_credit(amt: u64) {
     println!("Processing credit payment of {}", amt);
 }
+
 fn pay_by_debit(amt: u64) {
     println!("Processing debit payment of {}", amt);
 }
