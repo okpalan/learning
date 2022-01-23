@@ -1,7 +1,7 @@
 // mod_within.rs
 
 mod food {
-    struct Cake;
+    pub struct Cake;
     struct Smoothie;
     struct Pizza;
 }
