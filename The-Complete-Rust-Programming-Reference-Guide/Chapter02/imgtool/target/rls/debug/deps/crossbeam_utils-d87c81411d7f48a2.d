@@ -1,0 +1,8 @@
+c:\Users\Researchers\Workspace\learning\The-Complete-Rust-Programming-Reference-Guide\Chapter02\imgtool\target\rls\debug\deps\crossbeam_utils-d87c81411d7f48a2.rmeta: C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\lib.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\cache_padded.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\atomic_option.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\scoped.rs
+
+c:\Users\Researchers\Workspace\learning\The-Complete-Rust-Programming-Reference-Guide\Chapter02\imgtool\target\rls\debug\deps\crossbeam_utils-d87c81411d7f48a2.d: C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\lib.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\cache_padded.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\atomic_option.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\scoped.rs
+
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\lib.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\cache_padded.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\atomic_option.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\crossbeam-utils-0.2.2\src\scoped.rs:

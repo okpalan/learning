@@ -1,0 +1,11 @@
+c:\Users\Researchers\Workspace\learning\The-Complete-Rust-Programming-Reference-Guide\Chapter02\imgtool\target\rls\debug\deps\gif-36adaa095b24158d.rmeta: C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\lib.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\traits.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\common.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\util.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\reader\mod.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\reader\decoder.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\encoder.rs
+
+c:\Users\Researchers\Workspace\learning\The-Complete-Rust-Programming-Reference-Guide\Chapter02\imgtool\target\rls\debug\deps\gif-36adaa095b24158d.d: C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\lib.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\traits.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\common.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\util.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\reader\mod.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\reader\decoder.rs C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\encoder.rs
+
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\lib.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\traits.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\common.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\util.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\reader\mod.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\reader\decoder.rs:
+C:\Users\Researchers\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.0\src\encoder.rs:
