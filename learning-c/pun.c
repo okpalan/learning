@@ -3,7 +3,7 @@
 /*
 Name: pun.c
 Purpose: Prints a bad Pun.
-Author: Nnamdi.M.Okpala
+Author: None
 */
 
 int main(void) {
